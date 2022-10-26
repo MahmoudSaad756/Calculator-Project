@@ -2,7 +2,7 @@
 
 Calculator Project using Keypad and LCD interfaced with atmega32
 ![alt text](https://github.com/MahmoudSaad756/Calculator-Project/blob/main/Screenshot%20(123).png?raw=true)
-echo "# Calculator-Progect" >> README.md
+echo "# Calculator-Project" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
